@@ -1,0 +1,6 @@
+.texto-grande {
+  font-size: 64px;
+  line-height: 1.125; /*título: use entre 1x e 1.25x*/
+  font-family: "Poppins";
+  font-weight: 600;
+}
